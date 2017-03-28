@@ -1,0 +1,24 @@
+{
+  "name": "permission-middleware",
+  "version": "1.0.0",
+  "description": "<img src=\"http://i.imgur.com/opZKqAi.png\" align=\"right\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ert": "^1.0.1",
+    "path-to-regexp": "^1.0.1",
+    "promise": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinhvietnam/permission-middleware.git"
+  },
+  "author": "Nam Trinh Viet <trinhvietnambk@gmail.com> (https://www.facebook.com/nam.trinhviet.5)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinhvietnam/permission-middleware/issues"
+  },
+  "homepage": "https://github.com/trinhvietnam/permission-middleware#readme"
+}
